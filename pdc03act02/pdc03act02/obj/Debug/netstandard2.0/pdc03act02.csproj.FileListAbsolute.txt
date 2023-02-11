@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\pdc03act02.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\pdc03act02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\activity1.xaml.g.cs
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\activity2.xaml.g.cs
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\pdc03act02.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\pdc03act02.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\pdc03act02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\pdc03act02.dll
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\refint\pdc03act02.dll
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\pdc03act02.pdb
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\bin\Debug\netstandard2.0\pdc03act02.deps.json
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\bin\Debug\netstandard2.0\pdc03act02.dll
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\bin\Debug\netstandard2.0\pdc03act02.pdb
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lenovo\Documents\VS\pdc03act02\pdc03act02\pdc03act02\obj\Debug\netstandard2.0\ref\pdc03act02.dll
